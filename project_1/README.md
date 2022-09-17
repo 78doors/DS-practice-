@@ -1,7 +1,7 @@
-# Project 1. Computer guesses the number
+# Project 1. Computer guesses the number (https://github.com/78doors/DS-practice-/tree/main/project_1)
 
 ## Table of contents  
-[1. Project description](.README.md#Описание-проекта)  
+[1. Project description]()  
 [2. What task do we solve?](.README.md#Какой-кейс-решаем)  
 [3. Brief information about the data](.README.md#Краткая-информация-о-данных)  
 [4. Stages of the project](.README.md#Этапы-работы-над-проектом)  
